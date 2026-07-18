@@ -42,3 +42,6 @@ Contains the raw CSV files for all 16 streams across the 5 glacier systems. Each
 Stores all the plots and csv files.
 ### `Stream_kml`
 Containes all the kml files of the 16 delineated stream centerlines. Files are named by stream codes.
+
+
+[![DOI](https://zenodo.org/badge/1305112087.svg)](https://doi.org/10.5281/zenodo.21432259)
