@@ -1,16 +1,10 @@
 cff-version: 1.2.0
 message: "Please cite it as below."
 authors:
-  - family-names: "Banerjee"
-    given-names: "Argha"
   - family-names: "David Raj"
     given-names: "Aju"
-  - family-names: "Sommers"
-    given-names: "Aleah"
-  - family-names: "Stubblefield"
-    given-names: "Aaron"
-  - family-names: "Vijay"
-    given-names: "Saurabh"
+  - family-names: "Banerjee"
+    given-names: "Argha"
 title: "Data and Code for the Predicting Longitudinal Profiles of Persistent Supraglacial Streams"
 version: "v1.0.0"
 doi: " DOI: 10.5281/zenodo.21431713"
