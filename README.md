@@ -40,7 +40,7 @@ This notebook generates all manuscript figures and exports the fitted parameter 
 Contains the raw CSV files for all 16 streams across the 5 glacier systems. Each file contains point-level (5m-Interval measurements of position (`x`, `y`), along-stream distance (`distance`), surface elevation (`elev`), surface velocity (`velocity`), and `relief`. Files are named by stream codes (`sia_1.csv` through `vet_1.csv`).
 ### `Output/` 
 Stores all the plots and csv files.
-### `Stream_kml`
+### `Stream_kml/`
 Containes all the kml files of the 16 delineated stream centerlines. Files are named by stream codes.
 
 
